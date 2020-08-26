@@ -21,5 +21,6 @@
 ### 참고
 - 지식 자료실 / [공간분석 활용](https://compas.lh.or.kr/gis)의 COMPAS 게시물들을 참조하여 도움을 얻을 수 있습니다.
 
-### 대회 사이트
-- [compas](https://compas.lh.or.kr/subj/competition/info?subjNo=SBJ_2007_001)
+### 주관 대회 사이트
+- [compas](https://compas.lh.or.kr/)
+
