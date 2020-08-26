@@ -46,11 +46,12 @@ $ python -m pip install -U matplotlib
 
 ```r
 library(ggplot2)
-library(dyplyr)
+library(dplyr)
 ```
 
 # 그림파일 예제
 - 다음은 그림파일 예제입니다.
 ![](img/118735634.jpg)
+- 여기에 소스코드 같이 입력 > 그림 넣으면 됨
 
 
