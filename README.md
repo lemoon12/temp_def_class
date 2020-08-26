@@ -49,4 +49,8 @@ library(ggplot2)
 library(dyplyr)
 ```
 
+# 그림파일 예제
+- 다음은 그림파일 예제입니다.
+![](img/118735634.jpg)
+
 
