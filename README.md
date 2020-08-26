@@ -25,12 +25,28 @@
 - [compas](https://compas.lh.or.kr/)
 
 # Table 작성
-- 함수의 설명서는 아래와 같습니다.
+- 함수의 `설명서`는 아래와 같습니다.
 
 | a | b | c |   |   |
 |---|---|---|---|---|
 | a | b | c |   |   |
 |   |   |   |   |   |
 |   |   |   |   |   |
+
+# 소스코드 입력
+- 터미널 bash 코드 입력 예제
+
+```python
+import pandas as pd
+```
+
+```shell script
+$ python -m pip install -U matplotlib
+```
+
+```r
+library(ggplot2)
+library(dyplyr)
+```
 
 
